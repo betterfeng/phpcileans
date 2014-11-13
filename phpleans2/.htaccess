@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteBase /
+ErrorDocument 404 /index.html
+ErrorDocument 500 /404.html
+
+IndexIgnore */*
+
+DirectoryIndex index.php
+
+RewriteRule ^(.*)\.html$ $1.php [NC]
+RewriteRule ^(.*)\.htm$ $1.php [NC]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)index.php/$1 [QSA,PT,L]
