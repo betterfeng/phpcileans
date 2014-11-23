@@ -1,0 +1,16 @@
+ .bodybg {
+     background-image:url("../uploads/icons.png");
+     background-repeat:no-repeat;
+}
+
+.ok3 {
+    background-color: #fff;
+    background-image: url(../uploads/1.png);
+    background-repeat:no-repeat;
+    background-position: -1px -94px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 252px;
+    height: 58px;
+    border:   0;
+}
