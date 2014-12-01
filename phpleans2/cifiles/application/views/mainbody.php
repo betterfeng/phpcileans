@@ -5,8 +5,20 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 
-<body class="bodybg">
-    <input  class="ok3" type="submit" name="login" value="登录" /><br/><br/>
-    <input  type="submit" name="login" value="提 交" style="background-color: #fff; background-image: url(../uploads/1.png);background-position: -1px -94px;cursor: pointer;font-size: 18px;width: 252px;height: 58px;border:   0;" />
+<body class="root61">
+    <div id="shortcut-2013">
+        <div class="w">
+            
+        </div>
+    </div>
+    <div class="w">
+        <div id="#nav-2013"></div>
+        
+    </div>
+    <div id="bor">
+        <div id="main">
+            <span>内容元素</span>
+        </div>
+    </div>
 </body>
 

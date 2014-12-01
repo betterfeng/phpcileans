@@ -15,3 +15,60 @@
     height: 58px;
     border:   0;
 }
+
+.root61{
+
+}
+
+body {
+  background: none repeat scroll 0 0 #fff;
+  color: #666;
+  font: 12px/150% Arial,Verdana,"宋体";
+}
+
+
+
+.root61 .w {
+    background: #ddd;
+    height: 300px;
+  width: 1210px;
+}
+
+#nav-2013 {
+  background: none repeat scroll 0 0 #e4393c;
+  height: 40px;
+  margin-bottom: 10px;
+  padding-left: 210px;
+  position: relative;
+  z-index: 6;
+}
+
+
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+  margin: 0;
+  padding: 0;
+}
+#shortcut-2013 {
+  border-bottom: 1px solid #eee;
+  line-height: 30px;
+  width: 100%;
+}
+#shortcut-2013, #shortcut-2013 .w {
+  background: none repeat scroll 0 0 #f7f7f7;
+  height: 30px;
+}
+
+.nav-bar {
+  width: 990px;
+}
+.clearfix:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+.w{
+    margin: 0 auto;
+}

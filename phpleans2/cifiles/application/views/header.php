@@ -15,12 +15,28 @@ and open the template in the editor.
         <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
         <link rel='stylesheet' type="text/css" href="uploads/mainbutton.css" />
         <style type="text/css">
-             .bodybg2 {
-                 background-image:url(uploads/1.png);
-                 background-repeat:no-repeat;
-                 width: 100px;
-                 height: 21px;
-             }
+            #bor{
+                width: 500px;
+                border: dashed 5px;
+                background: #DDD;
+            }
+            #main{
+                height: 200px;
+                width: 200px;
+                margin: 20px;
+                padding: 20px;
+                border: 2px solid #000;
+                background: #EAEAEA;
+            }
+            span{
+                width: 100%;
+                height: 100%;
+                border: dashed 1px;
+                text-align: center;
+                padding-top:0;
+                display:block;
+                background: #E13300;
+            }
             
         </style>
     </head>
