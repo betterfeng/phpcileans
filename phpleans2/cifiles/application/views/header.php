@@ -6,8 +6,13 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
+        
         <title>这是头部</title>
+        <meta name="keywords" content="php学习">
+        <meta name="description" content="css学习">
+        <meta name="author" content="昭群工作室">
+        <meta name="copyright" content="2014-2015 Odt.">
+        <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
         <link rel='stylesheet' type="text/css" href="uploads/mainbutton.css" />
         <style type="text/css">
              .bodybg2 {
