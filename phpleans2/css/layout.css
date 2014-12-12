@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-12-10, 17:02:51
+    Author     : betterwin7
+*/
+
+body{
+    background: none repeat scroll 0 0 #fff;
+    color: #666;
+    font: 12px/150% Arial,Verdana,"宋体"; 
+}
+
+.root{
+    margin: 0 auto;
+    padding: 0;
+}

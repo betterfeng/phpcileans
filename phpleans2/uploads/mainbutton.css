@@ -1,23 +1,7 @@
- .bodybg {
-     /*background-image:url("../uploads/icons.png");*/
-     background-repeat:no-repeat;
-     
-}
-
-.ok3 {
-    background: transparent;
-    background-image: url(../uploads/1.png);
-    background-repeat:no-repeat;
-    background-position: -2px -94px;
-    cursor: pointer;
-    font-size: 18px;
-    width: 250px;
-    height: 58px;
-    border:   0;
-}
 
 .root61{
-
+    margin:0 auto;
+    padding: 0
 }
 
 body {
@@ -25,8 +9,6 @@ body {
   color: #666;
   font: 12px/150% Arial,Verdana,"宋体";
 }
-
-
 
 .root61 .w {
     background: #ddd;
@@ -57,16 +39,6 @@ html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, ad
   height: 30px;
 }
 
-.nav-bar {
-  width: 990px;
-}
-.clearfix:after {
-  clear: both;
-  content: ".";
-  display: block;
-  height: 0;
-  visibility: hidden;
-}
 
 .w{
     margin: 0 auto;
